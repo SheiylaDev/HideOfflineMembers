@@ -1,3 +1,5 @@
+//META{"name":"HideOfflineMembers","source":"https://github.com/SheiylaDev/HideOfflineMembers/blob/main/HideOfflineMembers.plugin.js","updateUrl":"https://raw.githubusercontent.com/SheiylaDev/HideOfflineMembers/main/HideOfflineMembers.plugin.js"}*//
+
 class HideOfflineMembers
 {
     getName() { return "HideOfflineMembers"; }

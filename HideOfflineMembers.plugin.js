@@ -1,4 +1,4 @@
-//META{"name":"HideOfflineMembers","invite":"GWYNKpbunT","donate":"https://www.paypal.com/paypalme/Sheiylanie","website":"https://revgames.tech/","source":"https://github.com/SheiylaDev/HideOfflineMembers/blob/main/HideOfflineMembers.plugin.js","updateUrl":"https://raw.githubusercontent.com/SheiylaDev/HideOfflineMembers/main/HideOfflineMembers.plugin.js"}*//
+//META{"name":"HideOfflineMembers","version":"1.0.0","invite":"GWYNKpbunT","donate":"https://www.paypal.com/paypalme/Sheiylanie","website":"https://revgames.tech/","source":"https://github.com/SheiylaDev/HideOfflineMembers/blob/main/HideOfflineMembers.plugin.js","updateUrl":"https://raw.githubusercontent.com/SheiylaDev/HideOfflineMembers/main/HideOfflineMembers.plugin.js"}*//
 
 class HideOfflineMembers
 {

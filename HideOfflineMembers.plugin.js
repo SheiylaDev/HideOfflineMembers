@@ -1,4 +1,14 @@
-//META{"name":"HideOfflineMembers","version":"1.0.0","invite":"GWYNKpbunT","donate":"https://www.paypal.com/paypalme/Sheiylanie","website":"https://revgames.tech/","source":"https://github.com/SheiylaDev/HideOfflineMembers/blob/main/HideOfflineMembers.plugin.js","updateUrl":"https://raw.githubusercontent.com/SheiylaDev/HideOfflineMembers/main/HideOfflineMembers.plugin.js"}*//
+/**
+ * @name HideOfflineMembers
+ * @author Sheiylanie
+ * @description Hides the offline members list in Discord.
+ * @version 1.0.0
+ * @invite GWYNKpbunT
+ * @donate https://www.paypal.com/paypalme/Sheiylanie
+ * @website https://revgames.tech/
+ * @source https://github.com/SheiylaDev/HideOfflineMembers/blob/main/HideOfflineMembers.plugin.js
+ * @updateUrl https://github.com/SheiylaDev/HideOfflineMembers/blob/main/HideOfflineMembers.plugin.js
+ */
 
 class HideOfflineMembers
 {
